@@ -1,6 +1,6 @@
 {
   "name": "@aspectron/flow-async",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": " ",
   "main": "index.js",
   "repository": {
@@ -9,9 +9,7 @@
   },
   "keywords": [],
   "license": "MIT",
-  "dependencies": {
-    "serve-static": "*"
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "*",
     "eslint-config-google": "*",
