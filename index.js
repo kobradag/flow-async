@@ -1,2 +1,2 @@
-const utils = require("./lib/async");
-module.exports = async;
+const fasync = require("./lib/async");
+module.exports = fasync;
