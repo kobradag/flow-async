@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript">
+	
+	nw.Window.get().showDevTools();
+	const { dpc, fetchJSON } = require('../index.js');
+
+	let getJSON = async (url)=>{
+		let json = await fetchJSON(url);
+		console.log(url+"\n", JSON.stringify(json, null, "\t"), json)
+	}
+
+	getJSON("https://google.com")
+
+	getJSON("./test.json")
+
+	getJSON("https://googleeeeeeeeeeeeeeeeeee.com")
+
+</script>
+</body>
+</html>
