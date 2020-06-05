@@ -1,7 +1,7 @@
 {
   "name": "@aspectron/flow-async",
   "version": "0.0.5",
-  "description": " ",
+  "description": "Async Utility Function",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -28,6 +28,7 @@
     "index.js",
     "lib",
     "README.md",
+    "LICENSE",
     ".jsdoc.js"
   ]
 }
