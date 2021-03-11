@@ -1,6 +1,6 @@
 {
   "name": "@aspectron/flow-async",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Async Utility Functions",
   "main": "index.js",
   "repository": {
