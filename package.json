@@ -1,5 +1,5 @@
 {
-  "name": "@aspectron/flow-async",
+  "name": "@kobradag/flow-async",
   "version": "1.1.0",
   "description": "Async Utility Functions",
   "main": "index.js",
